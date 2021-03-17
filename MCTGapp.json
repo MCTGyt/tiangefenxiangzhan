@@ -1,0 +1,93 @@
+{
+    "version": "9.9.9",
+    "sourceName": "天哥de源",
+    "sourceAuthor": "天哥", 
+    "sourceLinkTitle": "天哥de主页",
+    "sourceLinkUrl": "http://mctg.xyz",
+    "sourceImage": "https://ftp.bmp.ovh/imgs/2021/01/e189f5dc5de4f8c4.jpg",
+    "sourceUpdateTime": "2019-10-10T13:00:00+0800",
+    "sourceDescription": "再度崛起?",
+
+    "appCategories": [
+        "链接",
+        "工具",
+        "游戏",
+        "越狱工具"
+    ],
+    "appRepositories": [
+        {
+            "appType": "LINK",
+            "appCateIndex": 0,
+            "appUpdateTime": "2019-12-27T9:30:00+0800",
+            "appName": "赞助天哥",
+            "appVersion": "1.0",
+            "appImage": "https://ftp.bmp.ovh/imgs/2021/01/e189f5dc5de4f8c4.jpg",
+            "appLink": "https://paypal.me/mctgyt",
+            "appDescription": "嗯"
+        },
+
+        {
+            "appType": "LINK",
+            "appCateIndex": 0,
+            "appUpdateTime": "2019-12-27T9:30:00+0800",
+            "appName": "天哥Gbox源交流群",
+            "appVersion": "1.0",
+            "appImage": "https://ftp.bmp.ovh/imgs/2021/01/e189f5dc5de4f8c4.jpg",
+            "appLink": "#",
+            "appDescription": "群号：45354669"
+        },
+
+        {
+            "appType": "SELF_SIGN",      
+            "appCateIndex": 1,
+            "appUpdateTime": "2019-10-13T08:00:00+0800",
+            "appName": "签名测试",
+            "appVersion": "1.0",
+            "appImage": "https://ftp.bmp.ovh/imgs/2021/01/e189f5dc5de4f8c4.jpg",
+            "appPackage": "https://mctgapp.s3.jp-tok.cloud-object-storage.appdomain.cloud/%E7%AD%BE%E5%90%8D%E6%B5%8B%E8%AF%95%E5%8C%85.ipa",
+            "appDescription": "签名测试包"
+        },
+
+        {
+            "appType": "SELF_SIGN",      
+            "appCateIndex": 1,
+            "appUpdateTime": "2019-10-13T08:00:00+0800",
+            "appName": "AppCake",
+            "appVersion": "1.0",
+            "appImage": "https://ftp.bmp.ovh/imgs/2021/01/19f63ae16e89ddbb.png",
+            "appPackage": "https://mctgapp.s3.jp-tok.cloud-object-storage.appdomain.cloud/AppCake_704.ipa",
+            "appDescription": "破解游戏在这下就对了"
+        },
+
+        {
+            "appType": "SELF_SIGN",      
+            "appCateIndex": 1,
+            "appUpdateTime": "2019-10-13T08:00:00+0800",
+            "appName": "百度网盘破解版",
+            "appVersion": "1.0",
+            "appImage": "https://ftp.bmp.ovh/imgs/2021/01/aa8e87cdce4ebfb7.jpg",
+            "appPackage": "https://mctgapp.s3.jp-tok.cloud-object-storage.appdomain.cloud/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%A0%B4%E8%A7%A3%E7%89%889.6.1.ipa",
+            "appDescription": "破解百度网盘限速"
+        },
+
+        {
+            "appType": "SELF_SIGN",      
+            "appCateIndex": 3,
+            "appUpdateTime": "2019-10-13T08:00:00+0800",
+            "appName": "Odyssey",
+            "appVersion": "1.0",
+            "appImage": "https://ftp.bmp.ovh/imgs/2021/01/75383ec9b5d8a2c8.jpg",
+            "appPackage": "https://mctgapp.s3.jp-tok.cloud-object-storage.appdomain.cloud/Odyssey%201.2.1.ipa",
+            "appDescription": "建议用un0越狱"
+        },
+
+        {
+            "appType": "SELF_SIGN",      
+            "appCateIndex": 2,
+            "appUpdateTime": "2019-10-13T08:00:00+0800",
+            "appName": "我的世界0.96",
+            "appVersion": "1.0",
+            "appImage": "https://ftp.bmp.ovh/imgs/2021/01/a50a77875ef1c496.jpg",
+            "appPackage": "https://mctgapp.s3.jp-tok.cloud-object-storage.appdomain.cloud/MCPE095.ipa",
+            "appDescription": "我的世界旧版0.96版本"
+        }
